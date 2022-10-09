@@ -1,3 +1,7 @@
+## Trường đại học khoa học tự nhiên
+## 19120547 - Nguyễn Tuấn Khoa
+## Lớp: kiểm thử phần mềm 19_3
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
